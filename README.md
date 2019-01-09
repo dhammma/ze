@@ -86,3 +86,9 @@ client.connect(function(err) {
 Собранные данные можно получить здесь:
 
 [raw_data.csv](https://github.com/dmitriys-lits/ze/blob/master/raw_data.csv?raw=true)
+
+## Обновления
+
+**10.01.2019 00:36:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_00_36_result.png)
