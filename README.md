@@ -92,3 +92,4 @@ client.connect(function(err) {
 **10.01.2019 00:36:**
 
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_00_36_result.png)
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_13_00_result.png)
