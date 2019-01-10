@@ -87,9 +87,14 @@ client.connect(function(err) {
 
 [raw_data.csv](https://github.com/dmitriys-lits/ze/blob/master/raw_data.csv?raw=true)
 
-## Обновления
+## Обновления (снизу вверх)
+
+**10.01.2019 18:54 (данные за 48 часов):**
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/48hours_result.png)
+
+**10.01.2019 13:00:**
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_13_00_result.png)
 
 **10.01.2019 00:36:**
 
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_00_36_result.png)
-![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/10_01_2019_-_13_00_result.png)
