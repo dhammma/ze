@@ -81,6 +81,33 @@ client.connect(function(err) {
 
 Я надеюсь, что Владимиру Зеленскому не получится обмануть избирателей популяризируя мнение о всенародной любви и поддержке.
 
+## Полная картина
+
+Имеем четыре посуточных графика, которые практически идентичные, коэффиценты прироста разные используются. Каждый отдельно взятый график демонстрирует нереальную картину с симмуляцией ночной пониженной активности. Все вместе 4 графика показывают абсолютную периодичность симмуляции прироста, чего в реальном мире тоже не может быть.
+
+**Сутки первые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day1.png)
+
+
+**Сутки вторые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day2.png)
+
+
+**Сутки третьи:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day3.png)
+
+
+**Сутки четвертые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day4.png)
+
+
+**Все вместе (4 суток):**
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/96_hours_result.png)
+
 ## Исходные данные
 
 Собранные данные можно получить здесь:
@@ -89,7 +116,7 @@ client.connect(function(err) {
 
 ## Обновления (снизу вверх)
 
-**12.01.2019 18:54 (данные за 48 часов):**
+**12.01.2019 18:54 (данные за 96 часов):**
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/96_hours_result.png)
 
 **11.01.2019 16:40:**
