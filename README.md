@@ -89,6 +89,9 @@ client.connect(function(err) {
 
 ## Обновления (снизу вверх)
 
+**12.01.2019 18:54 (данные за 48 часов):**
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/96hours_result.png)
+
 **11.01.2019 16:40:**
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/11_01_2019_-_16_40_result.png)
 
