@@ -107,7 +107,7 @@ client.connect(function(err) {
 
 **Сутки пятые:**
 
-![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day4.png)
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day5.png)
 
 
 **Все вместе (5 суток):**
