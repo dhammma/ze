@@ -109,6 +109,9 @@ client.connect(function(err) {
 
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day5.png)
 
+**Сутки шестые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day6.png)
 
 **Все вместе (5 суток):**
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/96_hours_result.png)
