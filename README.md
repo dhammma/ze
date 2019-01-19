@@ -113,8 +113,25 @@ client.connect(function(err) {
 
 ![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day6.png)
 
-**Все вместе (5 суток):**
-![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/96_hours_result.png)
+**Сутки седьмые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day7.png)
+
+**Сутки восьмые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day8.png)
+
+**Сутки девятые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day9.png)
+
+**Сутки десятые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day10.png)
+
+**Сутки одинадцатые:**
+
+![ze counter](https://raw.githubusercontent.com/dmitriys-lits/ze/master/day11.png)
 
 ## Исходные данные
 
